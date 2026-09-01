@@ -1,0 +1,6 @@
+interface:
+  display_name: "游戏策划自然文风"
+  short_description: "让中文游戏策划拥有明确主语、完整因果和自然专业的语气"
+  default_prompt: "请用 $game-design-natural-writing-zh 重写这份中文游戏策划，保留规则与数字，让真实对象承担动作，并把结论的推导写清楚。"
+policy:
+  allow_implicit_invocation: true
